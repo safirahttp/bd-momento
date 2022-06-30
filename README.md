@@ -45,32 +45,32 @@ Três novos funcionários foram contratados para o departamento de inovações. 
 O salário de todos eles será a média salarial dos departamentos de administração e finanças. 
 
 ### Funcionários
-<code> -- William Ferreira
-INSERT INTO funcionarios (primeiro_nome, sobrenome, email, telefone, dataContratacao, ocupacao_id, salario, departamento_id) VALUES ('William', 'Ferreira', 'william.ferreira@momento.org', '515.123.8989','2022-07-08', 9, 9000.00, 12); </code>
+-- William Ferreira
+<code> INSERT INTO funcionarios (primeiro_nome, sobrenome, email, telefone, dataContratacao, ocupacao_id, salario, departamento_id) VALUES ('William', 'Ferreira', 'william.ferreira@momento.org', '515.123.8989','2022-07-08', 9, 9000.00, 12); </code>
 
-<code> -- Fernanda Lima
-INSERT INTO funcionarios (primeiro_nome, sobrenome, email, telefone, dataContratacao, ocupacao_id, salario, departamento_id) 
+-- Fernanda Lima
+<code> INSERT INTO funcionarios (primeiro_nome, sobrenome, email, telefone, dataContratacao, ocupacao_id, salario, departamento_id) 
 VALUES ('Fernanda', 'Lima', 'fernanda.lima@momento.org', '515.123.9090', '2022-07-08', 9, 10000.00, 12); </code>
 
-<code> -- Fabiana Raulino
-INSERT INTO funcionarios (primeiro_nome, sobrenome, email, telefone, dataContratacao, ocupacao_id, salario, departamento_id) VALUES ('Fabiana', 'Raulino', 'fabiana.raulino@momento.org', '515.123.9191', '2022-07-08', 7, 20000.00, 12); </code>
+-- Fabiana Raulino
+<code> INSERT INTO funcionarios (primeiro_nome, sobrenome, email, telefone, dataContratacao, ocupacao_id, salario, departamento_id) VALUES ('Fabiana', 'Raulino', 'fabiana.raulino@momento.org', '515.123.9191', '2022-07-08', 7, 20000.00, 12); </code>
 
 ### Dependentes
 
-<code> -- Inara Ferreira
-INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Inara', 'Ferreira', 'esposa', 218) </code>
+-- Inara Ferreira
+<code> INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Inara', 'Ferreira', 'esposa', 218) </code>
 
-<code> -- Gabriel Ferreira
-INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Gabriel', 'Ferreira', 'filho', 218) </code>
+-- Gabriel Ferreira
+<code>INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Gabriel', 'Ferreira', 'filho', 218) </code>
 
-<code> -- Rodrigo Lima
-INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Rodrigo', 'Lima', 'marido', 219) </code>
+-- Rodrigo Lima
+<code>INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Rodrigo', 'Lima', 'marido', 219) </code>
 
-<code> -- Maya Raulino
-INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Maya', 'Raulino', 'filha', 220) </code>
+-- Maya Raulino
+<code> INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Maya', 'Raulino', 'filha', 220) </code>
 
-<code> -- Laura Raulino
-INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Laura', 'Raulino', 'filha', 220) </code>
+-- Laura Raulino
+<code> INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Laura', 'Raulino', 'filha', 220) </code>
 
 ## 9. Informe todas as regiões em que a empresa atua acompanhadas de seus países.
 

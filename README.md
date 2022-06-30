@@ -108,7 +108,7 @@ INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) V
 
 #### Escolheria a Noruega porque lá parece frio, gosto da cultura e das histórias e de vikings, lá tem muitos museus e coisas sobre arte, e eu gosto da língua e do sotaque deles. O departamento seria de adivinhar o dublador, escolheria meus amigos como funcionários, a gente é muito bom nisso.
 
-#### 17. Atualize as informações na tabela para que seu departamento seja criado.
+## 17. Atualize as informações na tabela para que seu departamento seja criado.
 
 <code> INSERT INTO posicao (endereco, cidade, pais_id) VALUES ('Uranienborg ', 'Noruega', 'NO'); </code>
 

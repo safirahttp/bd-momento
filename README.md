@@ -62,9 +62,9 @@ INSERT INTO funcionarios (primeiro_nome, sobrenome, email, telefone, dataContrat
 
 <code> -- Inara Ferreira
 
-INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Inara', 'Ferreira', 'esposa', 218)
+INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Inara', 'Ferreira', 'esposa', 218) </code>
 
--- Gabriel Ferreira
+<code> -- Gabriel Ferreira
 
 INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Gabriel', 'Ferreira', 'filho', 218) </code>
 
@@ -74,9 +74,9 @@ INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) V
 
 <code> -- Maya Raulino
 
-INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Maya', 'Raulino', 'filha', 220)
+INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Maya', 'Raulino', 'filha', 220) </code>
 
--- Laura Raulino
+<code> -- Laura Raulino
 
 INSERT INTO dependentes (primeiro_nome, sobrenome, parentesco, funcionario_id) VALUES ('Laura', 'Raulino', 'filha', 220) </code>
 

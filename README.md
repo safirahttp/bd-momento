@@ -1,6 +1,6 @@
 # Momento!
 
-### A Momento é uma empresa única que faz o melhor que pode para alcançar o melhor da humanidade.
+- A Momento é uma empresa única que faz o melhor que pode para alcançar o melhor da humanidade.
 
 ## 1. Inclua suas próprias informações no departamento de tecnologia da empresa.
 
